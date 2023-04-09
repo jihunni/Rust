@@ -10,4 +10,5 @@
   cargo run
   cargo check
   cargo build --release
+  cargo doc --open
   ```
