@@ -6,6 +6,7 @@
   
 # Basics
   ```
+  cargo new [project_name]
   cargo run
   cargo check
   cargo build --release
